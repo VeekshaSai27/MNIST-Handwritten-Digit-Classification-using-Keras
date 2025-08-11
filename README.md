@@ -21,9 +21,3 @@ The MNIST dataset contains **60,000 training images** and **10,000 testing image
 4. **One-hot encode labels**: Convert digit labels to binary class vectors.
 
 ---
-
-## 🏗 Model Architecture
-```text
-Input Layer: 784 nodes (flattened pixels)
-Hidden Layer: 512 neurons, ReLU activation
-Output Layer: 10 neurons, Softmax activation
